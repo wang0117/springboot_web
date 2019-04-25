@@ -1,0 +1,12 @@
+{
+    "ems": "survey",
+    "emsvdata": "emsvdata_dev",
+    "udm": "db_public",
+    "objectdata": "db_public",
+    "meterdata": "db_public",
+    "originaldata": "db_public",
+    "servicedata": "db_public",
+    "energydata": "db_public",
+    "tenementdata": "physical_world_v3",
+    "workflow": "db_public"
+}
