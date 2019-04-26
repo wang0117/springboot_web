@@ -71,4 +71,9 @@ public class UserController {
         return "success";
     }
     
+    @RequestMapping("/back")
+    public String back(){
+        return "redirect:index.html";
+    }
+    
 }
